@@ -1,7 +1,7 @@
 from pyrogram import Client
 from pyrogram.handlers import MessageHandler
 
-api_id = 1234567  # Sensitive data! Find your 7-digit Telegram App api_id here: https://my.telegram.org/apps
+api_id = 1234567  # Sensitive data! Find your Telegram App api_id here: https://my.telegram.org/apps
 api_hash = "..."  # Sensitive data! Find your Telegram App api_hash here: https://my.telegram.org/apps
 
 # @app.on_message()   # on_message() is a decorator
